@@ -2,6 +2,8 @@
 
 > 大部分翻译自：https://github.com/viraptor/reverse-interview ，亦有其他网友补充。
 
+> 译者总结的一份适合突击记忆的简洁版 LeetCode 题解和面试问题，也欢迎 Star。https://github.com/yifeikong/interview
+
 下面列表里的问题对于参加技术面试的人来说可能有些用。
 列表里的问题并不一定适用于某个特定的职位或者工作类型, 也没有排序
 最开始的时候这只是我自己的问题列表, 但是慢慢地添加了一些我觉得可能让我对这家公司亮红牌的问题。
