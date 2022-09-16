@@ -16,7 +16,7 @@
 [English](https://github.com/viraptor/reverse-interview)
 [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 [Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/PORTUGUESE.md)
-
+[繁體中文](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 ## 预期使用方式
 
 - 检查一下哪些问题你感兴趣
